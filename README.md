@@ -21,7 +21,7 @@
 </div>
 
 <p align="center">
-    <img src="assets/latentspace.png" alt="drawing" width="400"/>
+    <img src="assets/trispace.png" alt="drawing" width="900"/>
 </p>
 
 ## Introduction
