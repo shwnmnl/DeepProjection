@@ -1,0 +1,11 @@
+numpy
+pandas
+scipy
+scikit-learn
+seaborn
+plotly
+umap-learn
+statsmodels
+torch
+vec2text
+diffusers
