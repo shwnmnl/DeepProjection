@@ -33,7 +33,8 @@ This repo, named DeepProjection, contains the code for our paper [Towards a Late
 ```
 DeepProjection/
 ├── assets/
-│ └── latentspace.pnq
+│ ├── latentspace.png
+│ └── trispace.png
 ├── src/
 │ ├── clf.py
 │ ├── fa.R
@@ -48,6 +49,7 @@ DeepProjection/
 ## Detailed Descriptions
 - **assets/**: Contains image files used for this README file.
   - **latentspace.png**: Project emblem
+  - **trispace.png**: Project banner
 
 - **src/**: Contains source code for the project.
   - **clf.py**: Script for valence and arousal classification, as well as mental health factors
