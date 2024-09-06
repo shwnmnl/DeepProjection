@@ -2,6 +2,7 @@
 
 <div align='center'>
     <a href='https://scholar.google.ca/citations?user=LxMWm1wAAAAJ&hl=en' target='_blank'><strong>Shawn Manuel</strong></a><sup> 1,2</sup>&emsp;
+    <a href='https://scholar.google.com/citations?user=6Q0JvLoAAAAJ&hl=en&oi=sra' target='_blank'><strong>Jean Gagnon</strong></a><sup> 3</sup>&emsp;
     <a href='https://scholar.google.com/citations?user=V_4V14gAAAAJ&hl=en&oi=ao' target='_blank'><strong>Frédéric Gosselin</strong></a><sup> 3</sup>&emsp;
     <a href='https://scholar.google.com/citations?user=XrBcghcAAAAJ&hl=en' target='_blank'><strong>Vincent Taschereau-Dumouchel</strong></a><sup> 1,2</sup>&emsp;
 </div>
