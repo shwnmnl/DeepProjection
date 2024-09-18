@@ -16,7 +16,7 @@
 
 <br>
 <div align="center">
- <a href='https://arxiv.org'><img src='https://img.shields.io/badge/arXiv-DeepProjection-red'></a>
+ <a href='https://doi.org/10.31234/osf.io/gb6nu'><img src='https://img.shields.io/badge/arXiv-DeepProjection-red'></a>
  <a href='https://deepprojection.pythonanywhere.com'><img src='https://img.shields.io/badge/Project-demo-green'></a>
  <a href='https://huggingface.co/spaces/shwnmnl/DeepProjection'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue'></a>
 </div>
@@ -27,7 +27,7 @@
 
 ## Introduction
 
-This repo, named DeepProjection, contains the code for our paper [Towards a Latent Space Cartography of Subjective Experience in Mental Health](https://arxiv.org). The latent space of subjective experiences can be explored on our [companion website](https://deepprojection.pythonanywhere.com), as well as the synthetic stimulus generation (hosted on [Hugging Face](https://huggingface.co/spaces/shwnmnl/DeepProjection)).
+This repo, named DeepProjection, contains the code for our paper [Towards a Latent Space Cartography of Subjective Experience in Mental Health](https://doi.org/10.31234/osf.io/gb6nu). The latent space of subjective experiences can be explored on our [companion website](https://deepprojection.pythonanywhere.com), as well as the synthetic stimulus generation (hosted on [Hugging Face](https://huggingface.co/spaces/shwnmnl/DeepProjection)).
 
 ## Directory Structure
 
