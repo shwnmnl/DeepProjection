@@ -27,7 +27,7 @@
 
 ## Introduction
 
-This repo, named DeepProjection, contains the code for our paper [Towards a Latent Space Cartography of Subjective Experience in Mental Health](https://doi.org/10.31234/osf.io/gb6nu). The latent space of subjective experiences can be explored on our [companion website](https://deepprojection.pythonanywhere.com), as well as the synthetic stimulus generation (hosted on [Hugging Face](https://huggingface.co/spaces/shwnmnl/DeepProjection)).
+This repo, named DeepProjection, contains the code for our paper [Towards a Latent Space Cartography of Subjective Experience in Mental Health](https://doi.org/10.1111/pcn.13798). The latent space of subjective experiences can be explored on our [companion website](https://deepprojection.pythonanywhere.com), as well as the synthetic stimulus generation (hosted on [Hugging Face](https://huggingface.co/spaces/shwnmnl/DeepProjection)).
 
 ## Directory Structure
 
